@@ -1,0 +1,206 @@
+:root {
+  --fallback-font-stack: Helvetica, Arial, serif;
+}
+
+.variant13.root {
+  position: relative;
+  width: 1920px;
+  height: 556px;
+  min-height: 556px;
+}
+.variant13 .color {
+  position: absolute;
+  inset: 0 0 206px;
+  width: 1920px;
+  height: 350px;
+  background-color: #00868a;
+  opacity: 0.1;
+}
+.variant13 .color1 {
+  position: absolute;
+  inset: 213px 1302px 0 312px;
+  width: 306px;
+  height: 343px;
+  background-color: #00868a;
+}
+.variant13 .cover {
+  position: absolute;
+  inset: 212px 1302px 114px 312px;
+  width: 306px;
+  height: 230px;
+}
+.variant13 .color2 {
+  position: absolute;
+  inset: 243px 1430px 273px 342px;
+  width: 148px;
+  height: 40px;
+  background-color: #4fbfa5;
+}
+.variant13 .info {
+  position: absolute;
+  inset: 252px auto auto 357px;
+  width: 117px;
+  height: 22px;
+  font: 500 18px/1.2 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .desc {
+  position: absolute;
+  inset: 467px auto auto 342px;
+  width: 181px;
+  height: 63px;
+  font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .image {
+  position: absolute;
+  inset: 479px 1332px 37px 538px;
+  width: 50px;
+  height: 40px;
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+.variant13 .color11 {
+  position: absolute;
+  inset: 213px 972px 0 642px;
+  width: 306px;
+  height: 343px;
+  background-color: #00868a;
+}
+.variant13 .cover1 {
+  position: absolute;
+  inset: 212px 972px 114px 642px;
+  width: 306px;
+  height: 230px;
+}
+.variant13 .color21 {
+  position: absolute;
+  inset: 243px 1100px 273px 672px;
+  width: 148px;
+  height: 40px;
+  background-color: #4fbfa5;
+}
+.variant13 .info1 {
+  position: absolute;
+  inset: 252px auto auto 687px;
+  width: 117px;
+  height: 22px;
+  font: 500 18px/1.2 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .desc1 {
+  position: absolute;
+  inset: 467px auto auto 672px;
+  width: 181px;
+  height: 63px;
+  font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .image1 {
+  position: absolute;
+  inset: 479px 1002px 37px 868px;
+  width: 50px;
+  height: 40px;
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+.variant13 .color12 {
+  position: absolute;
+  inset: 213px 642px 0 972px;
+  width: 306px;
+  height: 343px;
+  background-color: #00868a;
+}
+.variant13 .cover2 {
+  position: absolute;
+  inset: 212px 642px 114px 972px;
+  width: 306px;
+  height: 230px;
+}
+.variant13 .color22 {
+  position: absolute;
+  inset: 243px 770px 273px 1002px;
+  width: 148px;
+  height: 40px;
+  background-color: #4fbfa5;
+}
+.variant13 .info2 {
+  position: absolute;
+  inset: 252px auto auto 1017px;
+  width: 117px;
+  height: 22px;
+  font: 500 18px/1.2 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .desc2 {
+  position: absolute;
+  inset: 467px auto auto 1002px;
+  width: 181px;
+  height: 63px;
+  font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .image2 {
+  position: absolute;
+  inset: 479px 672px 37px 1198px;
+  width: 50px;
+  height: 40px;
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+.variant13 .color13 {
+  position: absolute;
+  inset: 213px 312px 0 1302px;
+  width: 306px;
+  height: 343px;
+  background-color: #00868a;
+}
+.variant13 .cover3 {
+  position: absolute;
+  inset: 212px 312px 114px 1302px;
+  width: 306px;
+  height: 230px;
+}
+.variant13 .color23 {
+  position: absolute;
+  inset: 243px 440px 273px 1332px;
+  width: 148px;
+  height: 40px;
+  background-color: #4fbfa5;
+}
+.variant13 .info3 {
+  position: absolute;
+  inset: 252px auto auto 1347px;
+  width: 117px;
+  height: 22px;
+  font: 500 18px/1.2 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .desc3 {
+  position: absolute;
+  inset: 467px auto auto 1332px;
+  width: 181px;
+  height: 63px;
+  font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+  color: white;
+}
+.variant13 .image3 {
+  position: absolute;
+  inset: 479px 342px 37px 1528px;
+  width: 50px;
+  height: 40px;
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+.variant13 .info11 {
+  position: absolute;
+  inset: 80px auto auto 603.5px;
+  display: flex;
+  justify-content: center;
+  width: 712px;
+  height: 72px;
+  font: 700 48px/1.5 Lato, Helvetica, Arial, serif;
+  color: #00868a;
+  text-align: center;
+  letter-spacing: -1.2px;
+}

@@ -1,0 +1,121 @@
+@use "utils" as *;
+@use "global" as *;
+
+.variant10 {
+  &.root {
+    position: relative;
+    width: 1920px;
+    height: 730px;
+    min-height: 730px;
+    background-color: rgb(51 51 51);
+  }
+
+  .info_box {
+    position: absolute;
+    inset: 143px auto auto 869.5px;
+    display: flex;
+    justify-content: center;
+    width: 182px;
+    height: 65px;
+  }
+
+  .info {
+    font: 300 48px/1.35 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4.8px;
+  }
+
+  .info_span0 {
+    font: 300 1em/1.35 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(209 169 84);
+  }
+
+  .info_span1 {
+    font: 300 1em/1.35 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+  }
+
+  .desc {
+    position: absolute;
+    inset: 371px auto auto 405px;
+    width: 445px;
+    height: 210px;
+    font: 400 14px/1.5 "Open Sans", Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+  }
+
+  .info1 {
+    position: absolute;
+    inset: 308px auto auto 405px;
+    width: 285px;
+    height: 29px;
+    font: 700 21px/1.38 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+    text-transform: uppercase;
+    letter-spacing: 2.1px;
+  }
+
+  .image {
+    position: absolute;
+    inset: 308px 405px 130px 1165px;
+    width: 350px;
+    height: 292px;
+  }
+
+  .info11 {
+    position: absolute;
+    inset: 308px auto auto 880px;
+    width: 210px;
+    height: 29px;
+    font: 700 21px/1.38 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+    text-transform: uppercase;
+    letter-spacing: 2.1px;
+  }
+
+  .info2_box {
+    position: absolute;
+    inset: 456px auto auto 880px;
+    width: 167px;
+    height: 22px;
+  }
+
+  .info2 {
+    font: 700 16px/1.37 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    letter-spacing: 0.8px;
+  }
+
+  .info2_span0 {
+    font: 700 1em/1.37 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(209 169 84);
+  }
+
+  .info2_span1 {
+    font: 700 1em/1.37 "Open Sans Condensed", Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+  }
+
+  .image1 {
+    position: absolute;
+    inset: 371px 970px 289px 880px;
+    width: 70px;
+    height: 70px;
+  }
+
+  .info2_box1 {
+    position: absolute;
+    inset: 583px auto auto 880px;
+    width: 119px;
+    height: 22px;
+  }
+
+  .image11 {
+    position: absolute;
+    inset: 498px 970px 162px 880px;
+    width: 70px;
+    height: 70px;
+  }
+}
