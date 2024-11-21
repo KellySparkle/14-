@@ -1,0 +1,386 @@
+@use "utils" as *;
+@use "global" as *;
+
+.variant14 {
+  &.root {
+    position: relative;
+    width: 1920px;
+    height: 547px;
+    min-height: 547px;
+    background-color: rgb(255 255 255);
+  }
+
+  .info {
+    position: absolute;
+    inset: 100px auto auto 313px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info1 {
+    position: absolute;
+    inset: 152px auto auto 312px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info11 {
+    position: absolute;
+    inset: 188px auto auto 312px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info12 {
+    position: absolute;
+    inset: 224px auto auto 312px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info13 {
+    position: absolute;
+    inset: 260px auto auto 312px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info2 {
+    position: absolute;
+    inset: 311px auto auto 313px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info14 {
+    position: absolute;
+    inset: 363px auto auto 312px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info15 {
+    position: absolute;
+    inset: 399px auto auto 312px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info16 {
+    position: absolute;
+    inset: 435px auto auto 312px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info17 {
+    position: absolute;
+    inset: 471px auto auto 312px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info3 {
+    position: absolute;
+    inset: 100px auto auto 662px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info18 {
+    position: absolute;
+    inset: 152px auto auto 661px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info19 {
+    position: absolute;
+    inset: 188px auto auto 661px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info110 {
+    position: absolute;
+    inset: 224px auto auto 661px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info111 {
+    position: absolute;
+    inset: 260px auto auto 661px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info4 {
+    position: absolute;
+    inset: 311px auto auto 662px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info112 {
+    position: absolute;
+    inset: 363px auto auto 661px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info113 {
+    position: absolute;
+    inset: 399px auto auto 661px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info114 {
+    position: absolute;
+    inset: 435px auto auto 661px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info115 {
+    position: absolute;
+    inset: 471px auto auto 661px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info5 {
+    position: absolute;
+    inset: 100px auto auto 1011px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info116 {
+    position: absolute;
+    inset: 152px auto auto 1010px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info117 {
+    position: absolute;
+    inset: 188px auto auto 1010px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info118 {
+    position: absolute;
+    inset: 224px auto auto 1010px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info119 {
+    position: absolute;
+    inset: 260px auto auto 1010px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info6 {
+    position: absolute;
+    inset: 311px auto auto 1011px;
+    width: 70px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info120 {
+    position: absolute;
+    inset: 363px auto auto 1010px;
+    width: 91px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info121 {
+    position: absolute;
+    inset: 399px auto auto 1010px;
+    width: 152px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info122 {
+    position: absolute;
+    inset: 435px auto auto 1010px;
+    width: 92px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info123 {
+    position: absolute;
+    inset: 471px auto auto 1010px;
+    width: 129px;
+    height: 21px;
+    font: 500 14px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info7 {
+    position: absolute;
+    inset: 138px auto auto 1302px;
+    width: 172px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    letter-spacing: -0.6px;
+  }
+
+  .info8 {
+    position: absolute;
+    inset: 227px auto auto 1302px;
+    width: 238px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    letter-spacing: -0.31px;
+  }
+
+  .info9 {
+    position: absolute;
+    inset: 376px auto auto 1302px;
+    width: 149px;
+    height: 32px;
+    font: 700 21px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    letter-spacing: -0.8px;
+  }
+
+  .info21 {
+    position: absolute;
+    inset: 111px auto auto 1302px;
+    width: 58px;
+    height: 17px;
+    font: 500 11px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    text-transform: uppercase;
+    letter-spacing: 0.55px;
+    opacity: 0.5;
+  }
+
+  .info22 {
+    position: absolute;
+    inset: 200px auto auto 1302px;
+    width: 41px;
+    height: 17px;
+    font: 500 11px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    text-transform: uppercase;
+    letter-spacing: 0.55px;
+    opacity: 0.5;
+  }
+
+  .info23 {
+    position: absolute;
+    inset: 349px auto auto 1302px;
+    width: 41px;
+    height: 17px;
+    font: 500 11px/1.5 Lato, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+    text-transform: uppercase;
+    letter-spacing: 0.55px;
+    opacity: 0.5;
+  }
+
+  .color1 {
+    position: absolute;
+    inset: 274px 454px 228px 1302px;
+    width: 164px;
+    height: 45px;
+    background-color: rgb(0 134 138);
+  }
+
+  .info31 {
+    position: absolute;
+    inset: 289px auto auto 1327px;
+    width: 114px;
+    height: 17px;
+    font: 500 14px/1.2 Lato, Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+
+  .color11 {
+    position: absolute;
+    inset: 423px 454px 79px 1302px;
+    width: 164px;
+    height: 45px;
+    background-color: rgb(0 134 138);
+  }
+
+  .info32 {
+    position: absolute;
+    inset: 438px auto auto 1327px;
+    width: 114px;
+    height: 17px;
+    font: 500 14px/1.2 Lato, Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+}
