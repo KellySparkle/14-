@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контактная информация</title>
+    <link href="https://fonts.googleapis.com/css2?family=Garamond&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #111111;
+            color: white;
+            font-family: 'Garamond', serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .line {
+            width: 1200px;
+            height: 1px; /* Изменено на 1 пиксель */
+            background-color: white;
+            margin: 10px 0;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            margin: 10px 0;
+        }
+        .column {
+            margin: 20px 40px; /* Отступы между столбиками */
+        }
+        h2 {
+            font-weight: bold;
+            margin-bottom: 10px; /* Отступ под заголовком */
+        }
+        .instagram-logo {
+            width: 24px; /* Примерный размер логотипа Instagram */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="line"></div>
+
+    <div class="container">
+        <div class="column">
+            <h2>Контакты</h2>
+            <p>+7(812)123-45-67</p>
+            <p>+7(812)123-45-67</p>
+            <p>Новоостровский проспект, дом 36 лит. С</p>
+        </div>
+
+        <div class="column">
+            <h2>Режим работы</h2>
+            <p>С 10:00 до 21:00 (Пн-Пт)</p>
+            <p>С 11:00 до 20:00 (Сб-Вс)</p>
+        </div>
+
+        <div class="column">
+            <h2>Мы в Instagram</h2>
+            <img src="inst.png" style="font-size: 50px;" alt="Логотип Instagram" class="instagram-logo">
+        </div>
+    </div>
+
+    <div class="line"></div>
+
+</body>
+</html>
