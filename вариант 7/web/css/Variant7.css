@@ -1,0 +1,163 @@
+:root {
+  --fallback-font-stack: Helvetica, Arial, serif;
+}
+
+.variant7.root {
+  position: relative;
+  width: 1920px;
+  height: 797px;
+  min-height: 797px;
+  background-color: #f6f6f8;
+}
+.variant7 .image {
+  position: absolute;
+  inset: 100px 403px 297px 1017px;
+  width: 500px;
+  height: 400px;
+  border-radius: 30px;
+  filter: drop-shadow(0 0 10px rgba(111, 111, 111, 0.25));
+}
+.variant7 .desc {
+  position: absolute;
+  inset: 280px auto auto 407px;
+  width: 489px;
+  height: 102px;
+  min-height: 102px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+  letter-spacing: -0.4px;
+}
+.variant7 .info {
+  position: absolute;
+  inset: 427px auto auto 407px;
+  width: 202px;
+  height: 20px;
+  font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+  color: #4985ff;
+  text-decoration: underline;
+}
+.variant7 .desc1 {
+  position: absolute;
+  inset: 152px auto auto 407px;
+  width: 424px;
+  height: 106px;
+  font: 700 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: #323232;
+}
+.variant7 .line {
+  position: absolute;
+  inset: 589px 403px 207px 407px;
+  width: 1110px;
+  height: 1px;
+  background-color: #e0e0e0;
+}
+.variant7 .info1 {
+  position: absolute;
+  inset: 660px auto auto 552px;
+  width: 76px;
+  height: 53px;
+  font: 400 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant7 .desc2 {
+  position: absolute;
+  inset: 712px auto auto 502px;
+  width: 100px;
+  height: 26px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+}
+.variant7 .image1 {
+  position: absolute;
+  inset: 667px 1388px 100px 502px;
+  width: 30px;
+  height: 30px;
+}
+.variant7 .info11 {
+  position: absolute;
+  inset: 660px auto auto 756px;
+  width: 76px;
+  height: 53px;
+  font: 400 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant7 .desc3 {
+  position: absolute;
+  inset: 712px auto auto 706px;
+  width: 100px;
+  height: 26px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+}
+.variant7 .image11 {
+  position: absolute;
+  inset: 667px 1184px 100px 706px;
+  width: 30px;
+  height: 30px;
+}
+.variant7 .info12 {
+  position: absolute;
+  inset: 660px auto auto 960px;
+  width: 76px;
+  height: 53px;
+  font: 400 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant7 .desc4 {
+  position: absolute;
+  inset: 712px auto auto 910px;
+  width: 100px;
+  height: 26px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+}
+.variant7 .image12 {
+  position: absolute;
+  inset: 667px 980px 100px 910px;
+  width: 30px;
+  height: 30px;
+}
+.variant7 .info13 {
+  position: absolute;
+  inset: 660px auto auto 1164px;
+  width: 76px;
+  height: 53px;
+  font: 400 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant7 .desc5 {
+  position: absolute;
+  inset: 712px auto auto 1114px;
+  width: 100px;
+  height: 26px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+}
+.variant7 .image13 {
+  position: absolute;
+  inset: 667px 776px 100px 1114px;
+  width: 30px;
+  height: 30px;
+}
+.variant7 .info14 {
+  position: absolute;
+  inset: 660px auto auto 1368px;
+  width: 76px;
+  height: 53px;
+  font: 400 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant7 .desc6 {
+  position: absolute;
+  inset: 712px auto auto 1318px;
+  width: 100px;
+  height: 26px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+}
+.variant7 .image14 {
+  position: absolute;
+  inset: 667px 572px 100px 1318px;
+  width: 30px;
+  height: 30px;
+}

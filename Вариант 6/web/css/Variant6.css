@@ -1,0 +1,84 @@
+:root {
+  --fallback-font-stack: Helvetica, Arial, serif;
+}
+
+.variant6.root {
+  position: relative;
+  width: 1110px;
+  height: 620px;
+  min-height: 620px;
+}
+.variant6 .info {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 107px;
+  height: 34px;
+  font: 900 24px/1.37 Lato, Helvetica, Arial, serif;
+  color: #bdbdbd;
+}
+.variant6 .info1 {
+  position: absolute;
+  inset: 63px auto auto 2px;
+  width: 555px;
+  height: 70px;
+  font: 900 48px/1.44 Merriweather, Helvetica, Arial, serif;
+  color: #333333;
+}
+.variant6 .color {
+  position: absolute;
+  inset: 190px 0 110px;
+  width: 1110px;
+  height: 320px;
+  background-color: #ebebeb;
+}
+.variant6 .image {
+  position: absolute;
+  inset: 610px 950px 0 0;
+  width: 160px;
+  height: 10px;
+}
+.variant6 .image1 {
+  position: absolute;
+  inset: 560px 60px 0 990px;
+  width: 60px;
+  height: 60px;
+}
+.variant6 .image11 {
+  position: absolute;
+  inset: 560px 0 0 1050px;
+  width: 60px;
+  height: 60px;
+}
+.variant6 .image3 {
+  position: absolute;
+  inset: 385px 935px 155px 95px;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+.variant6 .info2 {
+  position: absolute;
+  inset: 402px auto auto 210px;
+  width: 197px;
+  height: 25px;
+  font: 900 18px/1.37 Lato, Helvetica, Arial, serif;
+  color: black;
+}
+.variant6 .info3 {
+  position: absolute;
+  inset: 430px auto auto 210px;
+  width: 161px;
+  height: 20px;
+  font: 400 14px/1.37 Lato, Helvetica, Arial, serif;
+  color: #4f4f4f;
+}
+.variant6 .desc {
+  position: absolute;
+  inset: 235px auto auto 95px;
+  width: 920px;
+  height: 75px;
+  min-height: 75px;
+  font: 300 18px/1.37 Lato, Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: -1.3px;
+}
