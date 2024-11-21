@@ -1,0 +1,189 @@
+:root {
+  --fallback-font-stack: Helvetica, Arial, serif;
+}
+
+.untitled-page.root {
+  position: relative;
+  width: 1110px;
+  height: 564px;
+  min-height: 564px;
+}
+.untitled-page .info {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 74px;
+  height: 34px;
+  font: 900 24px/1.37 Lato, Helvetica, Arial, serif;
+  color: #bdbdbd;
+}
+.untitled-page .desc_box {
+  position: absolute;
+  inset: 73px auto auto 34px;
+  width: 347px;
+  height: 139px;
+}
+.untitled-page .desc {
+  font: 900 48px/1.44 Merriweather, Helvetica, Arial, serif;
+  color: black;
+}
+.untitled-page .desc_span0 {
+  font: 900 1em/1.44 Merriweather, Helvetica, Arial, serif;
+  color: #333333;
+}
+.untitled-page .desc_span1 {
+  font: 900 1em/1.44 Merriweather, Helvetica, Arial, serif;
+  color: rgba(0, 122, 255, 0.149);
+}
+.untitled-page .desc1 {
+  position: absolute;
+  inset: 240px auto auto 0;
+  width: 445px;
+  height: 224px;
+  min-height: 224px;
+  font: 300 18px/1.37 Lato, Helvetica, Arial, serif;
+  color: black;
+}
+.untitled-page .color {
+  position: absolute;
+  inset: 24px 285px 285px 570px;
+  width: 255px;
+  height: 255px;
+  background-color: #ebebeb;
+}
+.untitled-page .info1 {
+  position: absolute;
+  inset: 54px auto auto 610px;
+  width: 75px;
+  height: 66px;
+  font: 900 55px/1.2 Lato, Helvetica, Arial, serif;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 5.5px;
+}
+.untitled-page .desc2 {
+  position: absolute;
+  inset: 138px auto auto 610px;
+  width: 106px;
+  height: 37px;
+  font: 700 14px/1.32 Lato, Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: -0.4px;
+}
+.untitled-page .info2 {
+  position: absolute;
+  inset: 222px auto auto 610px;
+  width: 67px;
+  height: 17px;
+  font: 700 14px/1.21 Lato, Helvetica, Arial, serif;
+  color: #005fa3;
+  text-decoration: underline;
+  letter-spacing: -0.6px;
+}
+.untitled-page .color1 {
+  position: absolute;
+  inset: 309px 285px 0 570px;
+  width: 255px;
+  height: 255px;
+  background-color: #ebebeb;
+}
+.untitled-page .info11 {
+  position: absolute;
+  inset: 339px auto auto 610px;
+  width: 75px;
+  height: 66px;
+  font: 900 55px/1.2 Lato, Helvetica, Arial, serif;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 5.5px;
+}
+.untitled-page .desc21 {
+  position: absolute;
+  inset: 423px auto auto 610px;
+  width: 106px;
+  height: 37px;
+  font: 700 14px/1.32 Lato, Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: -0.4px;
+}
+.untitled-page .info21 {
+  position: absolute;
+  inset: 507px auto auto 610px;
+  width: 67px;
+  height: 17px;
+  font: 700 14px/1.21 Lato, Helvetica, Arial, serif;
+  color: #005fa3;
+  text-decoration: underline;
+  letter-spacing: -0.6px;
+}
+.untitled-page .color2 {
+  position: absolute;
+  inset: 24px 0 285px 855px;
+  width: 255px;
+  height: 255px;
+  background-color: #ebebeb;
+}
+.untitled-page .info12 {
+  position: absolute;
+  inset: 54px auto auto 895px;
+  width: 75px;
+  height: 66px;
+  font: 900 55px/1.2 Lato, Helvetica, Arial, serif;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 5.5px;
+}
+.untitled-page .desc22 {
+  position: absolute;
+  inset: 138px auto auto 895px;
+  width: 106px;
+  height: 37px;
+  font: 700 14px/1.32 Lato, Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: -0.4px;
+}
+.untitled-page .info22 {
+  position: absolute;
+  inset: 222px auto auto 895px;
+  width: 67px;
+  height: 17px;
+  font: 700 14px/1.21 Lato, Helvetica, Arial, serif;
+  color: #005fa3;
+  text-decoration: underline;
+  letter-spacing: -0.6px;
+}
+.untitled-page .color11 {
+  position: absolute;
+  inset: 309px 0 0 855px;
+  width: 255px;
+  height: 255px;
+  background-color: #005fa3;
+}
+.untitled-page .info3 {
+  position: absolute;
+  inset: 339px auto auto 895px;
+  width: 75px;
+  height: 66px;
+  font: 900 55px/1.2 Lato, Helvetica, Arial, serif;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 5.5px;
+}
+.untitled-page .desc3 {
+  position: absolute;
+  inset: 423px auto auto 895px;
+  width: 106px;
+  height: 37px;
+  font: 700 14px/1.32 Lato, Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: -0.4px;
+}
+.untitled-page .info4 {
+  position: absolute;
+  inset: 507px auto auto 895px;
+  width: 67px;
+  height: 17px;
+  font: 700 14px/1.21 Lato, Helvetica, Arial, serif;
+  color: white;
+  text-decoration: underline;
+  letter-spacing: -0.6px;
+}
