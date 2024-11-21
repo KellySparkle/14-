@@ -1,0 +1,308 @@
+@use "utils" as *;
+@use "global" as *;
+
+.variant9 {
+  &.root {
+    position: relative;
+    width: 1920px;
+    height: 413px;
+    min-height: 413px;
+    background-color: rgb(246 246 248);
+  }
+
+  .image {
+    position: absolute;
+    inset: 124px 1500px 274px 405px;
+    width: 15px;
+    height: 15px;
+  }
+
+  .info {
+    position: absolute;
+    inset: 122px auto auto 435px;
+    width: 86px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info1 {
+    position: absolute;
+    inset: 166px auto auto 435px;
+    width: 131px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info2 {
+    position: absolute;
+    inset: 210px auto auto 435px;
+    width: 206px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info11 {
+    position: absolute;
+    inset: 70px auto auto 405px;
+    width: 242px;
+    height: 22px;
+    font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .image1 {
+    position: absolute;
+    inset: 168px 1500px 230px 405px;
+    width: 15px;
+    height: 15px;
+  }
+
+  .image2 {
+    position: absolute;
+    inset: 211px 1500px 187px 405px;
+    width: 15px;
+    height: 15px;
+  }
+
+  .info3 {
+    position: absolute;
+    inset: 122px auto auto 710px;
+    width: 58px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info4 {
+    position: absolute;
+    inset: 166px auto auto 710px;
+    width: 109px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info5 {
+    position: absolute;
+    inset: 210px auto auto 710px;
+    width: 95px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info6 {
+    position: absolute;
+    inset: 254px auto auto 710px;
+    width: 69px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info12 {
+    position: absolute;
+    inset: 70px auto auto 690px;
+    width: 176px;
+    height: 22px;
+    font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .image7 {
+    position: absolute;
+    inset: 126px 1220px 277px 690px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image71 {
+    position: absolute;
+    inset: 170px 1220px 233px 690px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image72 {
+    position: absolute;
+    inset: 214px 1220px 189px 690px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image73 {
+    position: absolute;
+    inset: 258px 1220px 145px 690px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .info7 {
+    position: absolute;
+    inset: 122px auto auto 995px;
+    width: 65px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info8 {
+    position: absolute;
+    inset: 166px auto auto 995px;
+    width: 70px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info9 {
+    position: absolute;
+    inset: 210px auto auto 995px;
+    width: 119px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info10 {
+    position: absolute;
+    inset: 254px auto auto 995px;
+    width: 140px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info13 {
+    position: absolute;
+    inset: 70px auto auto 975px;
+    width: 144px;
+    height: 22px;
+    font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .image74 {
+    position: absolute;
+    inset: 126px 935px 277px 975px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image75 {
+    position: absolute;
+    inset: 170px 935px 233px 975px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image76 {
+    position: absolute;
+    inset: 214px 935px 189px 975px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image77 {
+    position: absolute;
+    inset: 258px 935px 145px 975px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .info14 {
+    position: absolute;
+    inset: 122px auto auto 1280px;
+    width: 54px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info15 {
+    position: absolute;
+    inset: 166px auto auto 1280px;
+    width: 72px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info16 {
+    position: absolute;
+    inset: 210px auto auto 1280px;
+    width: 69px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info17 {
+    position: absolute;
+    inset: 254px auto auto 1280px;
+    width: 49px;
+    height: 23px;
+    font: 400 14px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+  }
+
+  .info18 {
+    position: absolute;
+    inset: 70px auto auto 1260px;
+    width: 170px;
+    height: 22px;
+    font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .image78 {
+    position: absolute;
+    inset: 126px 650px 277px 1260px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image79 {
+    position: absolute;
+    inset: 170px 650px 233px 1260px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image710 {
+    position: absolute;
+    inset: 214px 650px 189px 1260px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .image711 {
+    position: absolute;
+    inset: 258px 650px 145px 1260px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .line {
+    position: absolute;
+    inset: 337px 405px 75px;
+    width: 1110px;
+    height: 1px;
+    background-color: rgb(224 224 224);
+  }
+
+  .info21 {
+    position: absolute;
+    inset: 368px auto auto 854px;
+    display: flex;
+    justify-content: center;
+    width: 212px;
+    height: 21px;
+    font: 400 13px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+    text-align: center;
+  }
+}

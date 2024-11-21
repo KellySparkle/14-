@@ -1,0 +1,160 @@
+:root {
+  --fallback-font-stack: Helvetica, Arial, serif;
+}
+
+.variant8.root {
+  position: relative;
+  width: 1920px;
+  height: 887px;
+  min-height: 887px;
+}
+.variant8 .color {
+  position: absolute;
+  inset: 0 0 397px;
+  width: 1920px;
+  height: 490px;
+  background-color: #c4c4c4;
+  background-image: linear-gradient(90deg, #504dc2 20.44%, #5f12d0 80.91%);
+}
+.variant8 .color1 {
+  position: absolute;
+  inset: 120px 405px 722px 1315px;
+  width: 200px;
+  height: 45px;
+  background-color: #4985ff;
+  border-radius: 22.5px;
+  box-shadow: 0 0 10px 0 rgba(111, 111, 111, 0.25);
+}
+.variant8 .info {
+  position: absolute;
+  inset: 133px auto auto 1369px;
+  display: flex;
+  justify-content: center;
+  width: 92px;
+  height: 20px;
+  font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+}
+.variant8 .desc {
+  position: absolute;
+  inset: 100px auto auto 405px;
+  width: 540px;
+  height: 106px;
+  font: 700 36px/1.46 Montserrat, Helvetica, Arial, serif;
+  color: white;
+}
+.variant8 .line {
+  position: absolute;
+  inset: 886px 405px 0;
+  width: 1110px;
+  height: 1px;
+  background-color: #e0e0e0;
+}
+.variant8 .image {
+  position: absolute;
+  inset: 258px 1165px 329px 405px;
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+}
+.variant8 .desc1 {
+  position: absolute;
+  inset: 635px auto auto 405px;
+  width: 350px;
+  height: 102px;
+  min-height: 102px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+  letter-spacing: -0.5px;
+}
+.variant8 .info1 {
+  position: absolute;
+  inset: 782px auto auto 405px;
+  width: 97px;
+  height: 20px;
+  font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+  color: #4985ff;
+  text-decoration: underline;
+}
+.variant8 .info2_box {
+  position: absolute;
+  inset: 588px auto auto 408px;
+  width: 287px;
+  height: 22px;
+}
+.variant8 .info2 {
+  font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+  color: black;
+}
+.variant8 .info2_span0 {
+  font: 600 1em/1.22 Montserrat, Helvetica, Arial, serif;
+  color: #4985ff;
+}
+.variant8 .info2_span1 {
+  font: 600 1em/1.22 Montserrat, Helvetica, Arial, serif;
+}
+.variant8 .image1 {
+  position: absolute;
+  inset: 258px 785px 329px;
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+}
+.variant8 .desc11 {
+  position: absolute;
+  inset: 635px auto auto 785px;
+  width: 350px;
+  height: 102px;
+  min-height: 102px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+  letter-spacing: -0.5px;
+}
+.variant8 .info11 {
+  position: absolute;
+  inset: 782px auto auto 785px;
+  width: 97px;
+  height: 20px;
+  font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+  color: #4985ff;
+  text-decoration: underline;
+}
+.variant8 .info2_box1 {
+  position: absolute;
+  inset: 588px auto auto 788px;
+  width: 287px;
+  height: 22px;
+}
+.variant8 .image2 {
+  position: absolute;
+  inset: 258px 405px 329px 1165px;
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+}
+.variant8 .desc12 {
+  position: absolute;
+  inset: 635px auto auto 1165px;
+  width: 350px;
+  height: 102px;
+  min-height: 102px;
+  font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+  color: #999999;
+  letter-spacing: -0.5px;
+}
+.variant8 .info12 {
+  position: absolute;
+  inset: 782px auto auto 1165px;
+  width: 97px;
+  height: 20px;
+  font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+  color: #4985ff;
+  text-decoration: underline;
+}
+.variant8 .info2_box2 {
+  position: absolute;
+  inset: 588px auto auto 1168px;
+  width: 287px;
+  height: 22px;
+}

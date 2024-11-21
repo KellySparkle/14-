@@ -1,0 +1,181 @@
+@use "utils" as *;
+@use "global" as *;
+
+.variant8 {
+  &.root {
+    position: relative;
+    width: 1920px;
+    height: 887px;
+    min-height: 887px;
+  }
+
+  .color {
+    position: absolute;
+    inset: 0 0 397px;
+    width: 1920px;
+    height: 490px;
+    background-color: rgb(196 196 196);
+    background-image: linear-gradient(90deg, #504dc2 20.44%, #5f12d0 80.91%);
+  }
+
+  .color1 {
+    position: absolute;
+    inset: 120px 405px 722px 1315px;
+    width: 200px;
+    height: 45px;
+    background-color: rgb(73 133 255);
+    border-radius: 22.5px;
+    box-shadow: 0 0 10px 0 rgb(111 111 111 / 25%);
+  }
+
+  .info {
+    position: absolute;
+    inset: 133px auto auto 1369px;
+    display: flex;
+    justify-content: center;
+    width: 92px;
+    height: 20px;
+    font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+    text-align: center;
+  }
+
+  .desc {
+    position: absolute;
+    inset: 100px auto auto 405px;
+    width: 540px;
+    height: 106px;
+    font: 700 36px/1.46 Montserrat, Helvetica, Arial, serif;
+    color: rgb(255 255 255);
+  }
+
+  .line {
+    position: absolute;
+    inset: 886px 405px 0;
+    width: 1110px;
+    height: 1px;
+    background-color: rgb(224 224 224);
+  }
+
+  .image {
+    position: absolute;
+    inset: 258px 1165px 329px 405px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .desc1 {
+    position: absolute;
+    inset: 635px auto auto 405px;
+    width: 350px;
+    height: 102px;
+    min-height: 102px;
+    font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+    letter-spacing: -0.5px;
+  }
+
+  .info1 {
+    position: absolute;
+    inset: 782px auto auto 405px;
+    width: 97px;
+    height: 20px;
+    font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+    color: rgb(73 133 255);
+    text-decoration: underline;
+  }
+
+  .info2_box {
+    position: absolute;
+    inset: 588px auto auto 408px;
+    width: 287px;
+    height: 22px;
+  }
+
+  .info2 {
+    font: 600 18px/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(0 0 0);
+  }
+
+  .info2_span0 {
+    font: 600 1em/1.22 Montserrat, Helvetica, Arial, serif;
+    color: rgb(73 133 255);
+  }
+
+  .info2_span1 {
+    font: 600 1em/1.22 Montserrat, Helvetica, Arial, serif;
+  }
+
+  .image1 {
+    position: absolute;
+    inset: 258px 785px 329px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .desc11 {
+    position: absolute;
+    inset: 635px auto auto 785px;
+    width: 350px;
+    height: 102px;
+    min-height: 102px;
+    font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+    letter-spacing: -0.5px;
+  }
+
+  .info11 {
+    position: absolute;
+    inset: 782px auto auto 785px;
+    width: 97px;
+    height: 20px;
+    font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+    color: rgb(73 133 255);
+    text-decoration: underline;
+  }
+
+  .info2_box1 {
+    position: absolute;
+    inset: 588px auto auto 788px;
+    width: 287px;
+    height: 22px;
+  }
+
+  .image2 {
+    position: absolute;
+    inset: 258px 405px 329px 1165px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .desc12 {
+    position: absolute;
+    inset: 635px auto auto 1165px;
+    width: 350px;
+    height: 102px;
+    min-height: 102px;
+    font: 400 16px/1.58 Montserrat, Helvetica, Arial, serif;
+    color: rgb(153 153 153);
+    letter-spacing: -0.5px;
+  }
+
+  .info12 {
+    position: absolute;
+    inset: 782px auto auto 1165px;
+    width: 97px;
+    height: 20px;
+    font: 500 16px/1.25 Montserrat, Helvetica, Arial, serif;
+    color: rgb(73 133 255);
+    text-decoration: underline;
+  }
+
+  .info2_box2 {
+    position: absolute;
+    inset: 588px auto auto 1168px;
+    width: 287px;
+    height: 22px;
+  }
+}
